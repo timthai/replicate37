@@ -363,7 +363,14 @@ footer p {
 	margin-top: 50px;
 }
 
-
+@media (max-width: 1115px) {
+	.meet {
+		display: none;
+	}
+	.arrow-left {
+		display: none;
+	}
+}
 
 
 
